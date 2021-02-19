@@ -1,0 +1,1 @@
+This repo contains the example code for my blog post [How to write reusable infrastructure code with Pulumi](https://www.novatec-gmbh.de/en/blog/how-to-write-reusable-infrastructure-code-with-pulumi).
